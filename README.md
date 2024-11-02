@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravi-kishore-sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kishore-sahni" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ravi-kishore-sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravi-kishore-sahni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-kishore-sahni-185b57249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kishore-sahni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27762830/ravi-kishore-sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravi-kishore-sahni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
